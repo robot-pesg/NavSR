@@ -1,0 +1,28 @@
+width: 960
+height: 600
+fx: 642.9165664800531
+fy: 641.9171825800378
+cx: 460.1840658156501
+cy: 308.5846449100310
+
+select_every_k_frame: 1
+
+sh_degree: 3
+white_background: false  # no adjustment needed
+random_background: false  # no adjustment needed
+convert_SHs_python: false  # no adjustment needed
+compute_cov3D_python: false  # no adjustment needed
+lambda_erank: 0  # no adjustment needed
+scaling_scale: 1  # 2 for less Gaussians
+
+position_lr: 0.00016
+feature_lr: 0.0025
+opacity_lr: 0.05
+scaling_lr: 0.005
+rotation_lr: 0.001
+lambda_dssim: 0.2
+
+apply_exposure: false
+exposure_lr: 0.001
+skybox_points_num: 100000  # 0 for indoor
+skybox_radius: 1000
