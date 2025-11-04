@@ -118,9 +118,17 @@ and semantic segmentation models.
 <li>Event-based SLAM: 
 <a href="https://github.com/NAIL-HNU/ESVO2" target="_blank" rel="noopener">ORB-SLAM3+ESVO2</a>, 
 <a href="https://github.com/arclab-hku/PL-EVIO_open" target="_blank" rel="noopener">PL-EVIO</a>, 
-<a href="https://github.com/arclab-hku/ESVIO" target="_blank" rel="noopener">ESVIO</a>, 
+<a href="https://github.com/arclab-hku/ESVIO" target="_blank" rel="noopener">ESVIO</a>
 </li>
 
 <li>Depth Estimation: </li>
+<a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/simipu" target="_blank" rel="noopener">SimIPU</a>, 
+<a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/binsformer" target="_blank" rel="noopener">BinsFormer</a>, 
+<a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/depthformer" target="_blank" rel="noopener">DepthFormer</a>, 
+<a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/dpt" target="_blank" rel="noopener">DPT</a>, 
+<a href="https://github.com/lukemelas/EfficientNet-PyTorch" target="_blank" rel="noopener">EfficientNet</a>, 
+<a href="https://github.com/DepthAnything/Depth-Anything-V2" target="_blank" rel="noopener">DepthAnythingv2</a>
+
+
 <li>Semantic Segmentation: </li>
 </details>
