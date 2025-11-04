@@ -103,10 +103,16 @@ and semantic segmentation models.
   <a href="https://github.com/hku-mars/FAST_LIO" target="_blank" rel="noopener">FAST-LIO2</a>, 
   <a href="https://github.com/Cc19245/LVI-SAM-Easyused" target="_blank" rel="noopener">LVI-SAM</a>, 
   <a href="https://github.com/hku-mars/r3live" target="_blank" rel="noopener">R3LIVE</a>, 
-  <a href="https://github.com/hku-mars/FAST-LIVO2" target="_blank" rel="noopener">FAST-LIVO2</a>, 
+  <a href="https://github.com/hku-mars/FAST-LIVO2" target="_blank" rel="noopener">FAST-LIVO2</a>
 </li>
 
-<li>Neural- and 3DGS-based SLAM: </li>
+<li>Neural- and 3DGS-based SLAM: <a href="https://github.com/HuajianUP/Photo-SLAM" target="_blank" rel="noopener">Photo-SLAM</a>,
+<a href="https://github.com/youmi-zym/GO-SLAM" target="_blank" rel="noopener">GO-SLAM</a>,
+<a href="https://github.com/PRBonn/PIN_SLAM" target="_blank" rel="noopener">PIN-SLAM</a>,
+<a href="https://github.com/APRIL-ZJU/Gaussian-LIC" target="_blank" rel="noopener">Gaussian-LIC</a>,
+<a href="https://github.com/xieyuser/GS-LIVM", target="_blank" rel="noopener">GS-LIVM</a>
+</li>
+
 <li>Event-based SLAM: </li>
 <li>Depth Estimation: </li>
 <li>Semantic Segmentation: </li>
