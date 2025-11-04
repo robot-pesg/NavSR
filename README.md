@@ -71,3 +71,11 @@ The dataset consists of 24 sequences covering 15.9 km of trajectories and includ
 | | O_1017_06 | 2022-10-17-12-45-07 | 22.5 | 566.1 | 455.6 | Noon/Narrow Path/Sports Field |
 </details>
 
+
+<details>
+<summary><b>Ground Truth</b></summary>
+<ul>
+<li>Ground Truth Trajectories</li>
+<li>Depth Maps</li>
+<li>Semantic Labels</li>
+</details>
