@@ -110,8 +110,8 @@ and semantic segmentation models.
 <a href="https://github.com/youmi-zym/GO-SLAM" target="_blank" rel="noopener">GO-SLAM</a>,
 <a href="https://github.com/PRBonn/PIN_SLAM" target="_blank" rel="noopener">PIN-SLAM</a>,
 <a href="https://github.com/APRIL-ZJU/Gaussian-LIC" target="_blank" rel="noopener">Gaussian-LIC</a>,
-<a href="https://github.com/xieyuser/GS-LIVM", target="_blank" rel="noopener">GS-LIVM</a>
-<a href="https://github.com/muskie82/MonoGS", target="_blank" rel="noopener">Mono-GS</a>
+<a href="https://github.com/xieyuser/GS-LIVM", target="_blank" rel="noopener">GS-LIVM</a>,
+<a href="https://github.com/muskie82/MonoGS", target="_blank" rel="noopener">Mono-GS</a>,
 <a href="https://github.com/graphdeco-inria/gaussian-splatting", target="_blank" rel="noopener">3DGS</a>
 </li>
 
