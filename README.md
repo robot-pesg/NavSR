@@ -80,8 +80,11 @@ The dataset consists of 24 sequences covering 15.9 km of trajectories and includ
 
 <li>Data Download</li>
 All sequences can be downloaded from the following links. 
+
 1️⃣ BaiduYun: 
+
 2️⃣ OneDrive:
+
 3️⃣ SJTU:
 </details>
 
