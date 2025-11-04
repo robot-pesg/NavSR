@@ -40,7 +40,8 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 
 <details>
 <summary><b>Data Sequence</b></summary>
-The dataset consists of 24 sequences covering 15.9 km of trajectories and includes challenging conditions such as varying illumination, low texture, long corridors, narrow pathways, and dynamic objects. Here is the overall organization of the NavSR dataset. 
+The dataset consists of 24 sequences covering 15.9 km of trajectories and includes challenging conditions such as varying illumination, low texture, long corridors, narrow pathways, and dynamic objects. Here is the overall organization of the NavSR dataset. The dataset includes separate directories for indoor and outdoor scenes, each containing timestamp files (.txt), raw images in TIFF format, and rosbags with multiple sensors:
+the "*VLIO.bag" file contains images, point clouds, and IMU data, while "*LIO.bag" file excludes image data. Event streams are stored in "*ESVIO.bag" file. Semantic segmentation labels and depth maps are provided in PNG format. Furthermore, both the extrinsic and intrinsic parameters of all sensors are provided to support accurate sensor fusion and calibration. We also include configuration files for various algorithms tested on the NavSR dataset.
 <img width="700" height="640" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
 
 The following table shows summary of all sequences statistics in the NavSR dataset.
@@ -81,5 +82,6 @@ NavSR employs a map-based ground-truth generation approach. The mapping process 
 ![gt_seiee_yulan](https://github.com/user-attachments/assets/38f55eb9-3277-4640-b9ad-63237163b323)
 
 <li>Depth Maps</li>
+
 <li>Semantic Labels</li>
 </details>
