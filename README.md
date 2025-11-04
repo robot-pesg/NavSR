@@ -94,12 +94,20 @@ Overview of semantic segmentation categories and representative samples. Left: D
 </details>
 
 <details>
-<summary><b>Algorithms Evaluation</b></summary>
+<summary><b>Algorithm Evaluation</b></summary>
 We presents a comprehensive evaluation of state-of-the-art robotic navigation and perception algorithms, including conventional SLAM, emerging Neural- and 3DGS-based SLAM paradigms, event-based SLAM, depth estimation,
-and semantic segmentation models.
-<li>Conventional SLAM</li>
-<li>Neural- and 3DGS-based SLAM</li>
-<li>Event-based SLAM</li>
-<li>Depth Estimation</li>
-<li>Semantic Segmentation</li>
+and semantic segmentation models.  
+<li>Conventional SLAM: <a href="https://github.com/UZ-SLAMLab/ORB_SLAM3" target="_blank" rel="noopener">ORB-SLAM3</a>, 
+  <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank" rel="noopener">VINS-Mono</a>, 
+  <a href="https://github.com/HKUST-Aerial-Robotics/A-LOAM" target="_blank" rel="noopener">LOAM</a>, 
+  <a href="https://github.com/hku-mars/FAST_LIO" target="_blank" rel="noopener">FAST-LIO2</a>, 
+  <a href="https://github.com/TixiaoShan/LVI-SAM" target="_blank" rel="noopener">LVI-SAM</a>, 
+  <a href="https://github.com/hku-mars/r3live" target="_blank" rel="noopener">R3LIVE</a>, 
+  <a href="https://github.com/hku-mars/FAST-LIVO2" target="_blank" rel="noopener">FAST-LIVO2</a>, 
+</li>
+
+<li>Neural- and 3DGS-based SLAM: </li>
+<li>Event-based SLAM: </li>
+<li>Depth Estimation: </li>
+<li>Semantic Segmentation: </li>
 </details>
