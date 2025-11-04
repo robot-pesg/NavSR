@@ -141,8 +141,10 @@ and semantic segmentation models.
 
 </details>
 
+## ✉️Contact
+This dataset is provided for academic purposes.
+
 
 ## ✏️Citation
 If our dataset helps your research, please cite:
-
 
