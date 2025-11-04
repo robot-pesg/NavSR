@@ -101,7 +101,7 @@ and semantic segmentation models.
   <a href="https://github.com/HKUST-Aerial-Robotics/VINS-Mono" target="_blank" rel="noopener">VINS-Mono</a>, 
   <a href="https://github.com/HKUST-Aerial-Robotics/A-LOAM" target="_blank" rel="noopener">LOAM</a>, 
   <a href="https://github.com/hku-mars/FAST_LIO" target="_blank" rel="noopener">FAST-LIO2</a>, 
-  <a href="https://github.com/TixiaoShan/LVI-SAM" target="_blank" rel="noopener">LVI-SAM</a>, 
+  <a href="https://github.com/Cc19245/LVI-SAM-Easyused" target="_blank" rel="noopener">LVI-SAM</a>, 
   <a href="https://github.com/hku-mars/r3live" target="_blank" rel="noopener">R3LIVE</a>, 
   <a href="https://github.com/hku-mars/FAST-LIVO2" target="_blank" rel="noopener">FAST-LIVO2</a>, 
 </li>
