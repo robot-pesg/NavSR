@@ -79,6 +79,7 @@ The following table shows summary of all sequences statistics in the NavSR datas
 <ul>
 <li>Ground Truth Trajectories</li>
 NavSR employs a map-based ground-truth generation approach. The mapping process was carried out using a Leica RTC360 scanner, with 214 and 129 scan stations in the community and office building scenarios, respectively. Considering the accuracies of both the pre-mapping and localization processes, our groundtruth generation pipeline provides cm-level global accuracy.
+  
 ![gt_seiee_yulan](https://github.com/user-attachments/assets/38f55eb9-3277-4640-b9ad-63237163b323)
 
 <li>Depth Maps</li>
