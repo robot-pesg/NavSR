@@ -92,3 +92,8 @@ Overview of semantic segmentation categories and representative samples. Left: D
 <img width="2862" height="802" alt="image" src="https://github.com/user-attachments/assets/50fbe69a-374d-45cc-85b4-88ef26ca6818" />
 
 </details>
+
+<details>
+<summary><b>Algorithms Evaluation</b></summary>
+
+</details>
