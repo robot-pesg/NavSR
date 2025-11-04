@@ -39,7 +39,8 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 
 
 <details>
-<summary><b>Data Sequence</b></summary>
+<summary><b>Data Sequence and Download</b></summary>
+<li>Data Sequence Overview</li>
 Here is the overall organization of the NavSR dataset. The dataset includes separate directories for indoor and outdoor scenes, each containing timestamp files (.txt), raw images in TIFF format, and rosbags with multiple sensors: the "*VLIO.bag" file contains images, point clouds, and IMU data, while "*LIO.bag" file excludes image data. Event streams are stored in "*ESVIO.bag" file. Semantic segmentation labels and depth maps are provided in PNG format. Furthermore, both the extrinsic and intrinsic parameters of all sensors are provided to support accurate sensor fusion and calibration. We also include configuration files for various algorithms tested on the NavSR dataset.
 
 <img width="700" height="640" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
@@ -71,6 +72,9 @@ The dataset consists of 24 sequences covering 15.9 km of trajectories and includ
 | | O_1017_04 | 2022-10-17-12-19-53 | 20.8 | 532.2 | 419.6 | Noon/Crowd/Dynamic |
 | | O_1017_05 | 2022-10-17-12-37-26 | 15.8 | 400.9 | 340.8 | Noon/Sports Field |
 | | O_1017_06 | 2022-10-17-12-45-07 | 22.5 | 566.1 | 455.6 | Noon/Narrow Path/Sports Field |
+
+<li>Data Download</li>
+
 </details>
 
 
