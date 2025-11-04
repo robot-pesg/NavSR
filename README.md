@@ -79,10 +79,13 @@ The dataset consists of 24 sequences covering 15.9 km of trajectories and includ
 <ul>
 <li>Ground Truth Trajectories</li>
 NavSR employs a map-based ground-truth generation approach. The mapping process was carried out using a Leica RTC360 scanner, with 214 and 129 scan stations in the community and office building scenarios, respectively. Considering the accuracies of both the pre-mapping and localization processes, our groundtruth generation pipeline provides cm-level global accuracy.
-  
-![gt_seiee_yulan](https://github.com/user-attachments/assets/38f55eb9-3277-4640-b9ad-63237163b323)
+<img width="600" height="500" alt="bfe666e6-ceab-4ddd-b11e-b1ab1954e1da" src="https://github.com/user-attachments/assets/b8bdcf8c-645f-4072-a5f7-6fe4864a5c2c" />
+
 
 <li>Depth Maps</li>
+We presents a novel depth estimation dataset constructed using two types of LiDAR sensors, namely the VLP-16 and Livox Avia. The dataset covers both indoor and outdoor scenes and comprises over 24k frames of semidense depth images.Here is the visualization of depth maps generated from accumulated LiDAR point clouds. 
+
+<img width="2426" height="518" alt="image" src="https://github.com/user-attachments/assets/72062278-c7ad-4012-8b16-7985941ba44d" />
 
 <li>Semantic Labels</li>
 </details>
