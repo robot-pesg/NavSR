@@ -121,14 +121,22 @@ and semantic segmentation models.
 <a href="https://github.com/arclab-hku/ESVIO" target="_blank" rel="noopener">ESVIO</a>
 </li>
 
-<li>Depth Estimation: </li>
-<a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/simipu" target="_blank" rel="noopener">SimIPU</a>, 
+<li>Depth Estimation: </li> <a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/simipu" target="_blank" rel="noopener">SimIPU</a>, 
 <a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/binsformer" target="_blank" rel="noopener">BinsFormer</a>, 
 <a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/depthformer" target="_blank" rel="noopener">DepthFormer</a>, 
 <a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/dpt" target="_blank" rel="noopener">DPT</a>, 
 <a href="https://github.com/lukemelas/EfficientNet-PyTorch" target="_blank" rel="noopener">EfficientNet</a>, 
 <a href="https://github.com/DepthAnything/Depth-Anything-V2" target="_blank" rel="noopener">DepthAnythingv2</a>
 
+<li>Semantic Segmentation: <a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/fcn" target="_blank" rel="noopener">FCN</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/unet" target="_blank" rel="noopener">U-Net</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/deeplabv3" target="_blank" rel="noopener">DeepLab</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/pspnet" target="_blank" rel="noopener">PSPNet</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/upernet" target="_blank" rel="noopener">UperNet</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/mobilenet_v2" target="_blank" rel="noopener">MobileNet</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/vit" target="_blank" rel="noopener">ViT-S</a>, 
+<a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/swin" target="_blank" rel="noopener">Swin-T</a>, 
+<a href="https://github.com/dongbo811/AFFormer" target="_blank" rel="noopener">AFFormer</a>
+</li>
 
-<li>Semantic Segmentation: </li>
 </details>
