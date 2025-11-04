@@ -21,13 +21,15 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 <li>We are the first multi-modal navigation dataset in service robot domain that provides such comprehensive and highquality ground truth data, including cm-level localization from survey maps, fine-grained semantic segmentation annotations, and accurate LiDAR-projected dense depth maps.</li>
 </details>
 
-<details>
-<summary><b>Sensor Setup</b></summary>
-
-<details>
 
 <details>
 <summary><b>Sensor Setup</b></summary>
 
+</details>
+
+
 <details>
+<summary><b>Sensor Setup</b></summary>
+
+</details>
 
