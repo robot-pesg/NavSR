@@ -95,5 +95,11 @@ Overview of semantic segmentation categories and representative samples. Left: D
 
 <details>
 <summary><b>Algorithms Evaluation</b></summary>
-
+We presents a comprehensive evaluation of state-of-the-art robotic navigation and perception algorithms, including conventional SLAM, emerging Neural- and 3DGS-based SLAM paradigms, event-based SLAM, depth estimation,
+and semantic segmentation models.
+<li>Conventional SLAM</li>
+<li>Neural- and 3DGS-based SLAM</li>
+<li>Event-based SLAM</li>
+<li>Depth Estimation</li>
+<li>Semantic Segmentation</li>
 </details>
