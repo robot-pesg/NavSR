@@ -39,7 +39,34 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 
 
 <details>
-<summary><b>Sensor Setup</b></summary>
+<summary><b>Data Sequence</b></summary>
+<img width="4398" height="4086" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
 
+| Scene | Sequence | Time | Size/GB | Length/m | Duration/s | Description |
+|-------|----------|------|---------|----------|------------|-------------|
+| **Indoor (Office buildings)** | I_1010_00 | 2022-10-10-21-28-30 | 24.3 | 530.8 | 481.7 | Night/Low Light/Dark/Sharp Turn/Return Path |
+| | I_1010_01 | 2022-10-10-21-39-03 | 25.0 | 579.8 | 499.2 | Night/Low Light/Sharp Turn/Return Path |
+| | I_1010_02 | 2022-10-10-21-50-28 | 26.3 | 615.6 | 516.5 | Night/Low Light/Sharp Turn/Wheel Slippage |
+| | I_1010_03 | 2022-10-10-22-01-18 | 41.7 | 923.8 | 808.2 | Night/Low Light/Dark/Sharp Turn/Wheel Slippage |
+| | I_1010_04 | 2022-10-10-22-18-25 | 13.8 | 316.9 | 280.9 | Night/Low Light |
+| | I_1017_00 | 2022-10-17-15-22-55 | 15.5 | 349.5 | 326.9 | Afternoon/HDR/Sharp Turn/Wheel Slippage |
+| | I_1017_01 | 2022-10-17-15-30-03 | 16.7 | 407.2 | 335.7 | Afternoon/HDR/Dynamic |
+| | I_1017_02 | 2022-10-17-15-37-44 | 45.0 | 1106.1 | 869.2 | Afternoon/Low Light/HDR/Sharp Turn |
+| | I_1017_03 | 2022-10-17-15-53-54 | 27.0 | 680.2 | 531.1 | Afternoon/Low Light/HDR/Sharp Turn/Return Path |
+| | I_1017_04 | 2022-10-17-16-08-37 | 31.5 | 791.9 | 610.1 | Afternoon/Low Light/HDR/Sharp Turn |
+| **Outdoor (Community areas)** | O_1008_00 | 2022-10-08-13-33-21 | 25.9 | 665.8 | 511.4 | Afternoon/Sports Field |
+| | O_1008_01 | 2022-10-08-14-08-31 | 36.6 | 952.1 | 721.5 | Afternoon/HDR/Narrow Path |
+| | O_1008_02 | 2022-10-08-14-22-57 | 36.3 | 932.4 | 710.9 | Afternoon/HDR |
+| | O_1009_00 | 2022-10-09-14-58-41 | 34.1 | 835.6 | 709.1 | Afternoon/HDR/Sports Field/Sharp Turn |
+| | O_1009_01 | 2022-10-09-15-13-13 | 39.7 | 977.1 | 778.9 | Afternoon/Sports Field/Narrow Path |
+| | O_1009_02 | 2022-10-09-15-51-44 | 39.6 | 945.9 | 788.0 | Afternoon/Sports Field |
+| | O_1009_03 | 2022-10-09-16-16-37 | 37.9 | 911.1 | 744.1 | Afternoon/HDR/Narrow Path |
+| | O_1017_00 | 2022-10-17-11-38-18 | 10.9 | 266.9 | 244.6 | Noon/HDR/Crowd/Dynamic |
+| | O_1017_01 | 2022-10-17-11-44-17 | 18.6 | 465.8 | 387.7 | Noon/Crowd/Dynamic |
+| | O_1017_02 | 2022-10-17-11-52-32 | 22.8 | 545.6 | 465.8 | Noon/Crowd/Dynamic |
+| | O_1017_03 | 2022-10-17-12-02-55 | 25.3 | 637.2 | 514.5 | Noon/Crowd/Dynamic |
+| | O_1017_04 | 2022-10-17-12-19-53 | 20.8 | 532.2 | 419.6 | Noon/Crowd/Dynamic |
+| | O_1017_05 | 2022-10-17-12-37-26 | 15.8 | 400.9 | 340.8 | Noon/Sports Field |
+| | O_1017_06 | 2022-10-17-12-45-07 | 22.5 | 566.1 | 455.6 | Noon/Narrow Path/Sports Field |
 </details>
 
