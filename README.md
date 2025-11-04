@@ -115,7 +115,12 @@ and semantic segmentation models.
 <a href="https://github.com/graphdeco-inria/gaussian-splatting", target="_blank" rel="noopener">3DGS</a>
 </li>
 
-<li>Event-based SLAM: </li>
+<li>Event-based SLAM: 
+<a href="https://github.com/NAIL-HNU/ESVO2" target="_blank" rel="noopener">ORB-SLAM3+ESVO2</a>, 
+<a href="https://github.com/arclab-hku/PL-EVIO_open" target="_blank" rel="noopener">PL-EVIO</a>, 
+<a href="https://github.com/arclab-hku/ESVIO" target="_blank" rel="noopener">ESVIO</a>, 
+</li>
+
 <li>Depth Estimation: </li>
 <li>Semantic Segmentation: </li>
 </details>
