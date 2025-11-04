@@ -83,9 +83,12 @@ NavSR employs a map-based ground-truth generation approach. The mapping process 
 
 
 <li>Depth Maps</li>
-We presents a novel depth estimation dataset constructed using two types of LiDAR sensors, namely the VLP-16 and Livox Avia. The dataset covers both indoor and outdoor scenes and comprises over 24k frames of semidense depth images.Here is the visualization of depth maps generated from accumulated LiDAR point clouds. 
+We presents a novel depth estimation dataset constructed using two types of LiDAR sensors, namely the VLP-16 and Livox Avia. The dataset covers both indoor and outdoor scenes and comprises over 24k frames of semidense depth images. Here is the visualization of depth maps generated from accumulated LiDAR point clouds. 
 
 <img width="2426" height="518" alt="image" src="https://github.com/user-attachments/assets/72062278-c7ad-4012-8b16-7985941ba44d" />
 
 <li>Semantic Labels</li>
+Overview of semantic segmentation categories and representative samples. Left: Distribution of semantic segmentation labels in the NavSR dataset. Right: Visualizations of instance samples for some typical semantic categories.
+<img width="2862" height="802" alt="image" src="https://github.com/user-attachments/assets/50fbe69a-374d-45cc-85b4-88ef26ca6818" />
+
 </details>
