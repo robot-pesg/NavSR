@@ -40,7 +40,7 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 
 <details>
 <summary><b>Data Sequence</b></summary>
-<img width="2500" height="2400" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
+<img width="800" height="700" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
 
 | Scene | Sequence | Time | Size/GB | Length/m | Duration/s | Description |
 |-------|----------|------|---------|----------|------------|-------------|
