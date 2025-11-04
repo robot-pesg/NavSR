@@ -40,11 +40,11 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 
 <details>
 <summary><b>Data Sequence</b></summary>
-<img width="4398" height="4086" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
+<img width="2500" height="2400" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
 
 | Scene | Sequence | Time | Size/GB | Length/m | Duration/s | Description |
 |-------|----------|------|---------|----------|------------|-------------|
-| **Indoor (Office buildings)** | I_1010_00 | 2022-10-10-21-28-30 | 24.3 | 530.8 | 481.7 | Night/Low Light/Dark/Sharp Turn/Return Path |
+| **Indoor** (Office buildings) | I_1010_00 | 2022-10-10-21-28-30 | 24.3 | 530.8 | 481.7 | Night/Low Light/Dark/Sharp Turn/Return Path |
 | | I_1010_01 | 2022-10-10-21-39-03 | 25.0 | 579.8 | 499.2 | Night/Low Light/Sharp Turn/Return Path |
 | | I_1010_02 | 2022-10-10-21-50-28 | 26.3 | 615.6 | 516.5 | Night/Low Light/Sharp Turn/Wheel Slippage |
 | | I_1010_03 | 2022-10-10-22-01-18 | 41.7 | 923.8 | 808.2 | Night/Low Light/Dark/Sharp Turn/Wheel Slippage |
@@ -54,7 +54,7 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 | | I_1017_02 | 2022-10-17-15-37-44 | 45.0 | 1106.1 | 869.2 | Afternoon/Low Light/HDR/Sharp Turn |
 | | I_1017_03 | 2022-10-17-15-53-54 | 27.0 | 680.2 | 531.1 | Afternoon/Low Light/HDR/Sharp Turn/Return Path |
 | | I_1017_04 | 2022-10-17-16-08-37 | 31.5 | 791.9 | 610.1 | Afternoon/Low Light/HDR/Sharp Turn |
-| **Outdoor (Community areas)** | O_1008_00 | 2022-10-08-13-33-21 | 25.9 | 665.8 | 511.4 | Afternoon/Sports Field |
+| **Outdoor** (Community areas) | O_1008_00 | 2022-10-08-13-33-21 | 25.9 | 665.8 | 511.4 | Afternoon/Sports Field |
 | | O_1008_01 | 2022-10-08-14-08-31 | 36.6 | 952.1 | 721.5 | Afternoon/HDR/Narrow Path |
 | | O_1008_02 | 2022-10-08-14-22-57 | 36.3 | 932.4 | 710.9 | Afternoon/HDR |
 | | O_1009_00 | 2022-10-09-14-58-41 | 34.1 | 835.6 | 709.1 | Afternoon/HDR/Sports Field/Sharp Turn |
