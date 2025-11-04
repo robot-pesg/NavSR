@@ -23,6 +23,7 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 
 <details>
 <summary><b>Sensor Setup</b></summary>
+  
 | Sensor | Model | Frequency | ROS Topic | ROS Message Type | Characteristics |
 |--------|-------|-----------|-----------|------------------|-----------------|
 | Stereo Gray | DALSA M1930 | 40Hz/10Hz | `/dalsa_gray/left/image_raw`<br>`/dalsa_gray/right/image_raw` | sensor_msgs/Image | Global shutter, ≤5ms exposure<br>1920×1200/960×600, 71°×56° FoV |
