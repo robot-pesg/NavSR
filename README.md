@@ -44,6 +44,8 @@ For camera intrinsic and extrinsic calibration, we employ the mature <a href="ht
 
 <details>
 <summary><b>Data Sequence and Download</b></summary>
+<img width="2708" height="1072" alt="85230833-ce94-4a5e-9230-f1952deb9c12" src="https://github.com/user-attachments/assets/e8295d6c-be30-4d94-9fe0-1e471ac5a33d" />
+
 <li>Data Sequence Overview</li>
 Here is the overall organization of the NavSR dataset. The dataset includes separate directories for indoor and outdoor scenes, each containing timestamp files (.txt), raw images in TIFF format, and rosbags with multiple sensors: the "*VLIO.bag" file contains images, point clouds, and IMU data, while "*LIO.bag" file excludes image data. Event streams are stored in "*ESVIO.bag" file. Semantic segmentation labels and depth maps are provided in PNG format. Furthermore, both the extrinsic and intrinsic parameters of all sensors are provided to support accurate sensor fusion and calibration. We also include configuration files for various algorithms tested on the NavSR dataset.
 
