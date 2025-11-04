@@ -21,10 +21,19 @@ robots remain insufficient and often fall short of sensor diversity, ground trut
 <li>We are the first multi-modal navigation dataset in service robot domain that provides such comprehensive and highquality ground truth data, including cm-level localization from survey maps, fine-grained semantic segmentation annotations, and accurate LiDAR-projected dense depth maps.</li>
 </details>
 
-
 <details>
 <summary><b>Sensor Setup</b></summary>
-
+| Sensor | Model | Frequency | ROS Topic | ROS Message Type | Characteristics |
+|--------|-------|-----------|-----------|------------------|-----------------|
+| Stereo Gray | DALSA M1930 | 40Hz/10Hz | `/dalsa_gray/left/image_raw`<br>`/dalsa_gray/right/image_raw` | sensor_msgs/Image | Global shutter, ≤5ms exposure<br>1920×1200/960×600, 71°×56° FoV |
+| Stereo RGB | DALSA C1930 | 40Hz/10Hz | `/dalsa_color/left/image_raw`<br>`/dalsa_color/right/image_raw` | sensor_msgs/Image | Global shutter, ≤10ms exposure<br>1920×1200/960×600, 71°×56° FoV |
+| Spinning LiDAR | Velodyne VLP16 | 10Hz | `/velodyne_points` | sensor_msgs/PointCloud2 | 16 channels, 360°×30° FoV<br>±3cm@100m range |
+| MEMS LiDAR | Livox AVIA | 10Hz | `/livox/lidar` | livox_ros_driver/CustomMsg | Non-repetitive, 70°×77° FoV<br>±2cm@200m range |
+| Consumer IMU | BMI088 | 200Hz | `/livox/imu` | sensor_msgs/Imu | 6-axis, Livox built-in<br>Bias: 1°/s (Gyro), 20 mg (Acc) |
+| Industrial INS | Xsens Mti-680G | 400Hz | `/imu/data` | sensor_msgs/Imu | 9-axis, with orientation<br>Bias: 8°/h (Gyro), 0.01 mg (Acc) |
+| Stereo Event | v2e Simulator | - | `/davis_left`<br>`/davis_right` | dvs_msgs/EventArray | 960×600, aligned with DALSA |
+| Wheel Odometry | Scout V1.0 | 200Hz | `/odom` | nav_msgs/Odometry | 4-wheel-drive, 3-axis, 1024-line |
+| 3D Survey Scanner | Leica RTC360 | - | - | - | 0.5m-130m range<br>1mm+10ppm accuracy |
 </details>
 
 
