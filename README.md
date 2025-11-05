@@ -3,7 +3,7 @@
 
 <div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/visualization_demo.gif" width="100%" height="100%" /></div>
 
-<div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/datacase_demo.gif" width="100%" height="100%" /></div>
+<div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/output_cropped.gif" width="100%" height="100%" /></div>
 
 
 ##  📢Update
