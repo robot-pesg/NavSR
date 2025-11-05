@@ -1,12 +1,13 @@
 # NavSR Dataset
 ## NavSR: A Multi-Modal Navigation Dataset for Service Robot with Comprehensive Ground Truth
 
+<div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/visualization_demo.gif" width="100%" height="100%" /></div>
+
 
 ##  📢Update
 - [2025.10.30] Add configuration files for the algorithms evaluated in the paper!
 - [2025.10.28] Create the NavSR Repository and add the calibration files!
 
-<div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/visualization_demo.gif" width="100%" height="100%" /></div>
 
 ## 👀Overview
 ![fig2total2](https://github.com/user-attachments/assets/334ee32f-3985-45f1-9a84-b679d08868f9)
