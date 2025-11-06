@@ -151,6 +151,7 @@ and semantic segmentation models.
 <a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox/tree/main/configs/dpt" target="_blank" rel="noopener">DPT</a>, 
 <a href="https://github.com/lukemelas/EfficientNet-PyTorch" target="_blank" rel="noopener">EfficientNet</a>, 
 <a href="https://github.com/DepthAnything/Depth-Anything-V2" target="_blank" rel="noopener">DepthAnythingv2</a>
+<a href="https://github.com/facebookresearch/vggt" target="_blank" rel="noopener">VGGT</a>
 
 <li>Semantic Segmentation: <a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/fcn" target="_blank" rel="noopener">FCN</a>, 
 <a href="https://github.com/open-mmlab/mmsegmentation/tree/v1.1.0/configs/unet" target="_blank" rel="noopener">U-Net</a>, 
