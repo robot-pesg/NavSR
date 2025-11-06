@@ -13,7 +13,7 @@
 ## 👀Overview
 ![fig2total2](https://github.com/user-attachments/assets/334ee32f-3985-45f1-9a84-b679d08868f9)
 
-<div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/output_cropped.gif" width="100%" height="100%" /></div>
+<div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/output_cropped.gif" width="200%" height="200%" /></div>
 
 <details>
 <summary><b>Abstract</b></summary>
