@@ -53,10 +53,9 @@ For camera intrinsic and extrinsic calibration, we employ the mature <a href="ht
 </details>
 
 <details>
-<summary><b>Data Sequences</b></summary>
+<summary><b>Data Sequences Overview</b></summary>
 <img width="2708" height="1072" alt="85230833-ce94-4a5e-9230-f1952deb9c12" src="https://github.com/user-attachments/assets/e8295d6c-be30-4d94-9fe0-1e471ac5a33d" />
 
-<li>Data Sequence Overview</li>
 Here is the overall organization of the NavSR dataset. The dataset includes separate directories for indoor and outdoor scenes, each containing timestamp files (.txt), raw images in TIFF format, and rosbags with multiple sensors: the "*VLIO.bag" file contains images, point clouds, and IMU data, while "*LIO.bag" file excludes image data. Event streams are stored in "*ESVIO.bag" file. Semantic segmentation labels and depth maps are provided in PNG format. Furthermore, both the extrinsic and intrinsic parameters of all sensors are provided to support accurate sensor fusion and calibration. We also include configuration files for various algorithms tested on the NavSR dataset.
 
 <img width="700" height="640" alt="data_organ" src="https://github.com/user-attachments/assets/b5ce8492-055c-40a6-a696-1aa0f6f165c5" />
@@ -88,6 +87,7 @@ The dataset consists of 24 sequences covering 15.9 km of trajectories and includ
 | | O_1017_04 | 2022-10-17-12-19-53 | 20.8 | 532.2 | 419.6 | Noon/Crowd/Dynamic |
 | | O_1017_05 | 2022-10-17-12-37-26 | 15.8 | 400.9 | 340.8 | Noon/Sports Field |
 | | O_1017_06 | 2022-10-17-12-45-07 | 22.5 | 566.1 | 455.6 | Noon/Narrow Path/Sports Field |
+</details>
 
 <details>
 <summary><b>Ground Truth</b></summary>
@@ -156,7 +156,6 @@ and semantic segmentation models.
 </li>
 
 </details>
-
 
 ## 🌈Data Download
 All sequences can be downloaded from the following links. 
