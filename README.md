@@ -51,7 +51,7 @@ For camera intrinsic and extrinsic calibration, we employ the mature <a href="ht
 </details>
 
 <details>
-<summary><b>Data Sequence and Download</b></summary>
+<summary><b>Data Sequences</b></summary>
 <img width="2708" height="1072" alt="85230833-ce94-4a5e-9230-f1952deb9c12" src="https://github.com/user-attachments/assets/e8295d6c-be30-4d94-9fe0-1e471ac5a33d" />
 
 <li>Data Sequence Overview</li>
@@ -86,17 +86,6 @@ The dataset consists of 24 sequences covering 15.9 km of trajectories and includ
 | | O_1017_04 | 2022-10-17-12-19-53 | 20.8 | 532.2 | 419.6 | Noon/Crowd/Dynamic |
 | | O_1017_05 | 2022-10-17-12-37-26 | 15.8 | 400.9 | 340.8 | Noon/Sports Field |
 | | O_1017_06 | 2022-10-17-12-45-07 | 22.5 | 566.1 | 455.6 | Noon/Narrow Path/Sports Field |
-
-<li>Data Download</li>
-All sequences can be downloaded from the following links. 
-
-1️⃣ BaiduYun: 
-
-2️⃣ OneDrive:
-
-3️⃣ SJTU:
-</details>
-
 
 <details>
 <summary><b>Ground Truth</b></summary>
@@ -165,6 +154,16 @@ and semantic segmentation models.
 </li>
 
 </details>
+
+## 🌈Data Download
+All sequences can be downloaded from the following links. 
+
+- 1️⃣ BaiduYun: https://pan.baidu.com/s/17-IzK49Z2jUOLf9CnDvGkg?pwd=6xh6 (提取码: 6xh6)
+
+- 2️⃣ OneDrive:
+
+- 3️⃣ SJTU:
+
 
 ## ✉️Contact
 This dataset is provided for academic purposes.
