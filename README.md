@@ -14,6 +14,7 @@
 ![fig2total2](https://github.com/user-attachments/assets/334ee32f-3985-45f1-9a84-b679d08868f9)
 
 <div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/output_cropped.gif" width="200%" height="200%" /></div>
+
 High resolution demo can be downloaded from the link. (链接: https://pan.baidu.com/s/1vjmRkgMNp6xZ7iw4QyI_iA?pwd=x3vk 提取码: x3vk) 
 
 <details>
