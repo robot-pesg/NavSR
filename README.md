@@ -162,7 +162,8 @@ All sequences can be downloaded from the following links.
 
 - 1️⃣ BaiduYun: https://pan.baidu.com/s/17-IzK49Z2jUOLf9CnDvGkg?pwd=6xh6 (提取码: 6xh6)
 
-- 2️⃣ OneDrive:
+- 2️⃣ OneDrive: https://1drv.ms/f/c/9cfa2a0dfa619718/EhFkvDP4uO1LqjM0d6yIbMwBddjVVNnTQMi8SsH7KmQl4g?e=5fDaKR
+https://1drv.ms/f/c/3360ed9dce4da53c/IgCjgWX-kRTdSLrv2q9Wkqz2AY9AZMnLDFU8qgsRQdvg8Lg?e=nQPKXl
 
 - 3️⃣ SJTU:
 
