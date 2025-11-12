@@ -10,6 +10,15 @@
 - [2025.10.30] Add configuration files for the algorithms evaluated in the paper!
 - [2025.10.28] Create the NavSR Repository and add the calibration files!
 
+## 🌈Data Download
+All sequences can be downloaded from the following links. 
+
+- 1️⃣ BaiduYun: [Baidu](https://pan.baidu.com/s/17-IzK49Z2jUOLf9CnDvGkg?pwd=6xh6) (提取码: 6xh6)
+
+- 2️⃣ OneDrive: [VLIO](https://1drv.ms/f/c/9cfa2a0dfa619718/EhFkvDP4uO1LqjM0d6yIbMwBddjVVNnTQMi8SsH7KmQl4g?e=5fDaKR)
+[Others](https://1drv.ms/f/c/3360ed9dce4da53c/IgCjgWX-kRTdSLrv2q9Wkqz2AY9AZMnLDFU8qgsRQdvg8Lg?e=nQPKXl)
+
+<!-- - 3️⃣ SJTU: -->
 
 ## 👀Overview
 ![fig2total2](https://github.com/user-attachments/assets/334ee32f-3985-45f1-9a84-b679d08868f9)
@@ -158,15 +167,6 @@ and semantic segmentation models.
 
 </details>
 
-## 🌈Data Download
-All sequences can be downloaded from the following links. 
-
-- 1️⃣ BaiduYun: [Baidu](https://pan.baidu.com/s/17-IzK49Z2jUOLf9CnDvGkg?pwd=6xh6) (提取码: 6xh6)
-
-- 2️⃣ OneDrive: [VLIO](https://1drv.ms/f/c/9cfa2a0dfa619718/EhFkvDP4uO1LqjM0d6yIbMwBddjVVNnTQMi8SsH7KmQl4g?e=5fDaKR)
-[Others](https://1drv.ms/f/c/3360ed9dce4da53c/IgCjgWX-kRTdSLrv2q9Wkqz2AY9AZMnLDFU8qgsRQdvg8Lg?e=nQPKXl)
-
-- 3️⃣ SJTU:
 
 
 ## ✉️Contact
