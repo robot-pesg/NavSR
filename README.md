@@ -16,7 +16,7 @@
 
 <div align=center><img src="https://github.com/robot-pesg/NavSR/blob/main/demo/output_cropped.gif" width="200%" height="200%" /></div>
 
-High resolution demo can be downloaded from the link. (链接: https://pan.baidu.com/s/1vjmRkgMNp6xZ7iw4QyI_iA?pwd=x3vk 提取码: x3vk) 
+High resolution demo can be downloaded from the link. (链接: [Link](https://pan.baidu.com/s/1vjmRkgMNp6xZ7iw4QyI_iA?pwd=x3vk) 提取码: x3vk) 
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -161,10 +161,10 @@ and semantic segmentation models.
 ## 🌈Data Download
 All sequences can be downloaded from the following links. 
 
-- 1️⃣ BaiduYun: https://pan.baidu.com/s/17-IzK49Z2jUOLf9CnDvGkg?pwd=6xh6 (提取码: 6xh6)
+- 1️⃣ BaiduYun: [Baidu](https://pan.baidu.com/s/17-IzK49Z2jUOLf9CnDvGkg?pwd=6xh6) (提取码: 6xh6)
 
-- 2️⃣ OneDrive: https://1drv.ms/f/c/9cfa2a0dfa619718/EhFkvDP4uO1LqjM0d6yIbMwBddjVVNnTQMi8SsH7KmQl4g?e=5fDaKR
-https://1drv.ms/f/c/3360ed9dce4da53c/IgCjgWX-kRTdSLrv2q9Wkqz2AY9AZMnLDFU8qgsRQdvg8Lg?e=nQPKXl
+- 2️⃣ OneDrive: [VLIO](https://1drv.ms/f/c/9cfa2a0dfa619718/EhFkvDP4uO1LqjM0d6yIbMwBddjVVNnTQMi8SsH7KmQl4g?e=5fDaKR)
+[Others](https://1drv.ms/f/c/3360ed9dce4da53c/IgCjgWX-kRTdSLrv2q9Wkqz2AY9AZMnLDFU8qgsRQdvg8Lg?e=nQPKXl)
 
 - 3️⃣ SJTU:
 
