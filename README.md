@@ -6,6 +6,7 @@
 
 
 ##  📢Update
+- [2025.11.12] Add the dataset download link!
 - [2025.10.30] Add configuration files for the algorithms evaluated in the paper!
 - [2025.10.28] Create the NavSR Repository and add the calibration files!
 
